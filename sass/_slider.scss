@@ -1,0 +1,17 @@
+.slick-slider{
+	position: relative;
+	.slick-track,.slick-list{}
+	.slick-track{
+		overflow: hidden;
+	}
+	.slick-list{}
+	.slick-slide{}
+	.slick-dots{
+		li{
+			button{}
+			&.slick-active{
+				button{}
+			}
+		}
+	}
+}
