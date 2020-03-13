@@ -75,3 +75,8 @@ $(document).ready(function() {
 	});
 
 });
+
+
+$(document).ready(function () {
+	$('.popup__link').magnificPopup();
+})
