@@ -1,0 +1,1 @@
+Получение ID чата - api.telegram.org/botТОКЕН/getUpdates?offset=-10
